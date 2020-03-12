@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FrankieTV/FrankieTV.iml" filepath="$PROJECT_DIR$/FrankieTV/FrankieTV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrankieTV-api/FrankieTV-api.iml" filepath="$PROJECT_DIR$/FrankieTV-api/FrankieTV-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrankieTV-common/FrankieTV-common.iml" filepath="$PROJECT_DIR$/FrankieTV-common/FrankieTV-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrankieTV-mapper/FrankieTV-mapper.iml" filepath="$PROJECT_DIR$/FrankieTV-mapper/FrankieTV-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrankieTV-pojo/FrankieTV-pojo.iml" filepath="$PROJECT_DIR$/FrankieTV-pojo/FrankieTV-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrankieTV-service/FrankieTV-service.iml" filepath="$PROJECT_DIR$/FrankieTV-service/FrankieTV-service.iml" />
+    </modules>
+  </component>
+</project>

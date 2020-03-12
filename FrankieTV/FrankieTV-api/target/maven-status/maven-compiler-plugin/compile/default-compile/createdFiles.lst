@@ -1,0 +1,11 @@
+com\xcz\controller\RegistLoginController.class
+com\xcz\WarStartApplication.class
+com\xcz\controller\UserController.class
+com\xcz\controller\BasicController.class
+com\xcz\controller\TestController.class
+com\xcz\controller\WebMvcConfig.class
+com\xcz\controller\interceptor\MiniInterceptor.class
+com\xcz\controller\VideoController.class
+com\xcz\Application.class
+com\xcz\controller\BgmController.class
+com\xcz\Swagger2.class

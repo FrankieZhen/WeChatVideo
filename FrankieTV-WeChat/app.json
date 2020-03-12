@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/mine/mine",
+    "pages/userLogin/login", 
+    "pages/index/index",
+    "pages/chooseBgm/chooseBgm",
+    "pages/videoinfo/videoinfo",
+    "pages/userRegist/regist",
+    "pages/logs/logs",
+    "pages/searchVideo/searchVideo",
+    "pages/report/report"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "FrankieTV",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json" ,
+  "debug":true
+}
